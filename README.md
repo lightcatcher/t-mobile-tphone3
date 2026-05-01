@@ -1,6 +1,7 @@
 # t-mobile-tphone3
 general info about the t-mobile t-phone 3
 
+`
 Fastboot getvar all
 ❯ fastboot getvar all
 (bootloader) snapshot-update-status:none
@@ -258,4 +259,4 @@ Fastboot getvar all
 (bootloader) product:parrot
 (bootloader) is-userspace:no
 (bootloader) max-download-size:778960896
-(bootloader) kernel:uefi
+(bootloader) kernel:uefi`
